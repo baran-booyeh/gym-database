@@ -42,7 +42,5 @@ The database was implemented in SQL with the following tables:
 - **TeamMember** – links members to teams  
 - **Payment** – records member payments  
 
----
 
-## Folder Structure
 
